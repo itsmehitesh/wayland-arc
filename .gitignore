@@ -11,4 +11,5 @@ env/
 data/wayland.db
 
 # Empty marker files
-__init__.py.DS_Store
+__init__.py
+.DS_Store
