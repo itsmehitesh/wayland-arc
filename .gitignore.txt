@@ -1,0 +1,14 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Local databases
+data/wayland.db
+
+# Empty marker files
+__init__.py
